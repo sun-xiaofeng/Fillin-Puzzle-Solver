@@ -1,5 +1,6 @@
 /**
  *  Fillin Puzzles
+ *  Author: Xiaofeng Sun
  */
 
 :- ensure_loaded(library(clpfd)).
