@@ -1,7 +1,5 @@
 /**
- *  Declarative Programming Project 2
  *  Fillin Puzzles
- *  Author: Xiaofeng Sun
  */
 
 :- ensure_loaded(library(clpfd)).
